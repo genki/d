@@ -1,6 +1,13 @@
 # d
 Shorthand for docker run
 
+**INSTALL**
+
+```
+curl -o /usr/local/bin/d https://raw.githubusercontent.com/genki/d/master/d
+chmod +x /usr/local/bin/d
+```
+
 **USAGE**
 
 ```
